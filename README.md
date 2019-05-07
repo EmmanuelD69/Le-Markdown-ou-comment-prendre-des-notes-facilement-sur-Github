@@ -23,5 +23,5 @@ Ce qui ressemblait au final à çà: \ * \ mais qui ne laisse apparaitre pour vo
   Il s'agit du même principe que précédemment mais en ajoutant au début et à la fin du texte souhaité deux * au lieu d'un seul.  
     
    Example: **ceci est du texte en gras**  
-    
+   Ce que j'ai effectivement écris pour obtenir ce résultat: \*\*ceci est du texte en gras\*\*
 
