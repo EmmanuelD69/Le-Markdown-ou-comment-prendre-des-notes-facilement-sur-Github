@@ -13,6 +13,8 @@ Donc, pour obtenir du texte en italique, il me faut encadrer le texte d'un uniqu
   
   
 Example: *Ceci est du texte en italique obtenu par l'encadrement de celui ci par le symbole \*\.*  
+Ce que j'ai effectivement écris pour obtenir ce résultat: \*Ceci est du texte en italique obtenu par l'encadrement de celui ci par le symbole \*\.*\  
+
   
   
 Petite subtilité! comment ai-je pu écrire le symbole * dans mon exemple sans que celui çi ne rentre en conflit avec le format italique que je souhaitai faire apparaitre?    
