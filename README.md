@@ -18,4 +18,10 @@ Example: *Ceci est du texte en italique obtenu par l'encadrement de celui ci par
 Petite subtilité! comment ai-je pu écrire le symbole * dans mon exemple sans que celui çi ne rentre en conflit avec le format italique que je souhaitai faire apparaitre?    
 Très simple, j'ai utilisé le symbole \ que l'on obtiens grâce à l'usage de la touche Alt Gr (qui doit logiquement se trouver du coté droit de votre barre d'espace) + la touche 8 de votre clavier numérique.  
 Ce qui ressemblait au final à çà: \ * \ mais qui ne laisse apparaitre pour vous que le symbole *.  
+  
+  Passons à l'étape suivante: Le double symbole * en début et fin de texte pour obtenir celui ci en **gras**.  
+  Il s'agit du même principe que précédemment mais en ajoutant au début et à la fin du texte souhaité deux * au lieu d'un seul.  
+    
+    Example: **ceci est du texte en gras**  
+    
 
