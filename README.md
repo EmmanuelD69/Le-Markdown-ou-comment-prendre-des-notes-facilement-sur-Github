@@ -5,7 +5,7 @@ Cette approche personnelle est basé sur la lecture du Tutorial trouvable à l'a
 https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_fr.md  
 Il serait plus simple de faire un copier coller mais aucun intérêt pour moi, je vais donc reprendre une par une les options présentées dans le tableau de la syntaxe du Mardown et voir ce que cela me donne.  
   
-  PS:info qui a son importance, pour retourner à la ligne, il faut finir votre phrase par un double espace + Entrée.  
+  PS: info qui a son importance, pour retourner à la ligne, il faut finir votre phrase par un double espace + Entrée.  
   
 
 Première tentative avec le format de texte en Italique que je suis supposé obtenir en utiliant le symbole *.  
